@@ -8,4 +8,4 @@ account — банковский счёт
 bank_card — карта
 transfer — перевод
 loan — кредит
-![Uploading image.png…]()
+
