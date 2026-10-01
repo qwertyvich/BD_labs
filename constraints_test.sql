@@ -3,7 +3,7 @@ INSERT INTO branch (branch_code, city, address)
 VALUES ('MSK-NEW', 'Moscow', 'Tverskaya Street, 7');
 
 INSERT INTO client (full_name, phone, email)
-VALUES ('Илья Соколов', '+79001110005', 'anna@example.com');
+VALUES ('Ilya Sokolov', '+79001110005', 'anna@gmail.com');
 
 INSERT INTO account (account_number, client_id, branch_id)
 VALUES ('40817810000000000007', 9999, 1);
