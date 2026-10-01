@@ -6,10 +6,10 @@ INSERT INTO branch (branch_code, city, address) VALUES
 ('MSK-02', 'Москва', 'Ленинский проспект, 14');
 
 INSERT INTO client (full_name, phone, email, registered_at) VALUES
-('Анна Иванова', '+79001110001', 'anna@gmail.com', '2025-11-03 10:15:00'),
-('Борис Петров', '+79001110002', 'boris@gmail.com', '2026-01-20 14:20:00'),
-('Вера Смирнова', '+79001110003', 'vera@gmail.com', '2026-02-15 09:40:00'),
-('Денис Кузнецов', '+79001110004', 'denis@gmail.com', '2026-03-09 16:05:00');
+('Anna Ivanova', '+79001110001', 'anna@gmail.com', '2025-11-03 10:15:00'),
+('Boris Petrov', '+79001110002', 'boris@gmail.com', '2026-01-20 14:20:00'),
+('Vera Smirnova', '+79001110003', 'vera@gmail.com', '2026-02-15 09:40:00'),
+('Denis Kuznetsov', '+79001110004', 'denis@gmail.com', '2026-03-09 16:05:00');
 
 INSERT INTO account (account_number, client_id, branch_id, opened_on, status) VALUES
 ('40817810000000000001', 1, 1, '2025-11-05', 'active'),
