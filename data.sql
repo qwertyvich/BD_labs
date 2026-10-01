@@ -1,9 +1,7 @@
-
-
 INSERT INTO branch (branch_code, city, address) VALUES
-('MSK-01', 'Москва', 'Тверская улица, 7'),
-('SPB-01', 'Санкт-Петербург', 'Невский проспект, 12'),
-('MSK-02', 'Москва', 'Ленинский проспект, 14');
+('MSK-01', 'Moscow', 'Tverskaya Street, 7'),
+('SPB-01', 'Saint Petersburg', 'Nevsky Prospekt, 12'),
+('MSK-02', 'Moscow', 'Leninsky Prospekt, 14');
 
 INSERT INTO client (full_name, phone, email, registered_at) VALUES
 ('Anna Ivanova', '+79001110001', 'anna@gmail.com', '2025-11-03 10:15:00'),
